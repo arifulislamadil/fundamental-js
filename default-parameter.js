@@ -15,3 +15,7 @@ function add(num1, num2 = 0) {
 
 const result = add(15, 10);
 console.log(result);
+
+const numbers = [3, 4, 8, 9, 11];
+const num2 = [33, 44, 55, 66]
+console.log([...numbers, ...num2]);
