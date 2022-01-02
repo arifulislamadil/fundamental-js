@@ -59,6 +59,5 @@ const fullname = fullName(firstName, secondName);
 console.log(fullname);
 
 //Object
-
 const bottle = { color: "blue", price: 33 }
 console.log(bottle);
